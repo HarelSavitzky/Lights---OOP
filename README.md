@@ -2,5 +2,5 @@
 This is my version for the puzzle game "Lights"
 
 
-![yMRVJWoQha](https://user-images.githubusercontent.com/72927733/97601905-5e13f880-1a13-11eb-9436-978feba7aff3.gif)
+![yoKkSgIoTm](https://user-images.githubusercontent.com/72927733/97604614-5bff6900-1a16-11eb-8f2a-4055fcfb484b.gif)
 
